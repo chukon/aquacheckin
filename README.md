@@ -10,6 +10,9 @@ The report created from the Aqua-CheckIn App will be used to account for all Aqu
 - If successful, you will receive a pop-up confirmation 
 - That's it!
 
+## Report
+- [https://chukon.github.io/aquacheckin/report.html](https://chukon.github.io/aquacheckin/report.html)
+
 ## How to setup Aqua-Checkin App
 
 ### Computer/Laptop<br>
