@@ -34,11 +34,11 @@ To view your Chrome apps click on the <b>Show Apps</b> icon <img src="https://i.
 3) In the list of options that appears, scroll down until you see <b>Add to Home Screen</b>. Tap this.<br>
 4) Click <b>Add</b> when you’re done.<br>
 <br>
-See Picture Steps below on how to add iPhones home screen<br>
+See Picture Steps below on how to add iPhones home screen<br><br>
 1) Tap arrow icon on bottom of iphone (see circled icon)<br>
-<img src="111.jpg" width="20%"><br>
+<img src="111.jpg" width="20%"><br><br>
 2) Tap <b>Add to Home Screen</b> (see circled icon)<br>
-<img src="222.jpg" width="20%"><br>
+<img src="222.jpg" width="20%"><br><br>
 2) Tap <b>Add</b> (see circled icon)<br>
 <img src="333.jpg" width="20%"><br>
 
