@@ -1,3 +1,4 @@
+<img src="al2.png" width="60%">
 # Aqua-Checkin App
 <br>
 The Aqua-CheckIn App helps Aqua employees easily check-in each morning from their computer, phone or tablet. <br>
