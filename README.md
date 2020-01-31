@@ -10,7 +10,7 @@ The report created from the Aqua-CheckIn App will be used to account for all Aqu
 - If successful, you will receive a pop-up confirmation 
 - That's it!
 
-## How to install Aqua-Checkin App
+## How to setup Aqua-Checkin App
 
 ### Computer/Laptop<br>
 
