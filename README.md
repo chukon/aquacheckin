@@ -26,7 +26,7 @@ The report created from the Aqua-CheckIn App will be used to account for all Aqu
 5) Click <b>Create</b>.<br><br>
 
 To view your Chrome apps click on the <b>Show Apps</b> icon (see image below)<br>
-<img src="https://i.imgur.com/fgSo4Yh.png" width="20%">
+<img src="https://i.imgur.com/fgSo4Yh.png" width="10%">
 <br>
 
 ### iPhone<br>
