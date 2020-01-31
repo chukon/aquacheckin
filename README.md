@@ -15,9 +15,6 @@ The report created from the Aqua-CheckIn App will be used to account for all Aqu
 - Once app loads click on the <b>Report</b> button
 - The report will only show checkins for tha day
 
-## Report
-- [https://chukon.github.io/aquacheckin/report.html](https://chukon.github.io/aquacheckin/report.html)
-
 ## How to setup Aqua-Checkin App
 
 ### Computer/Laptop<br>
