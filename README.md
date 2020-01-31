@@ -42,7 +42,7 @@ See Picture Steps below on how to add iPhones home screen<br><br>
 3) Tap <b>Add</b> (see circled icon)<br>
 <img src="333.jpg" width="20%"><br>
 4) You should now see the <b>Aqua-Checkin</b> icon on your iPhones home screen! (see image below)<br>
-<img src="444.jpg" width="20%"><br>
+<img src="444.jpg" width="100%"><br>
 
 ### Android<br>
 1) Open [http://bit.ly/aquacheckin](http://bit.ly/aquacheckin) from the Chrome web browser<br>
