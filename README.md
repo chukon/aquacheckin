@@ -10,6 +10,10 @@ The report created from the Aqua-CheckIn App will be used to account for all Aqu
 - If successful, you will receive a pop-up confirmation 
 - That's it!
 
+## How to view Aqua-Checkin App Report
+- Once app loads click on the <b>Report</b> button
+- The report will only show checkins for tha day
+
 ## Report
 - [https://chukon.github.io/aquacheckin/report.html](https://chukon.github.io/aquacheckin/report.html)
 
