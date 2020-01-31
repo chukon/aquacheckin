@@ -19,7 +19,7 @@ The report created from the Aqua-CheckIn App will be used to account for all Aqu
 
 ### Computer/Laptop<br>
 
-1) Go to [http://bit.ly/aquacheckin](http://bit.ly/aquacheckin) from the Chrome web browser<br><br>
+1) Go to [http://bit.ly/aquacheckin](http://bit.ly/aquacheckin) from the Chrome web browser<br>
 2) Bookmark or save as a Chrome app<br><br>
 Save as a Chrome app<br>
 1) Click the Chrome menu on the browser toolbar.<br>
