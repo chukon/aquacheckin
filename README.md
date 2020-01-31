@@ -25,10 +25,10 @@ The report created from the Aqua-CheckIn App will be used to account for all Aqu
 4) Select <b>Createshortcut</b> and checkbox <b>Open as Window</b>.<br>
 5) Click <b>Create</b>.<br><br>
 
-To view your Chrome app click on the <b>Show Apps</b> icon (see image below)<br>
-<img src="https://i.imgur.com/d5GH6Uk.png" width="30%">
+To view your Chrome apps click on the <b>Show Apps</b> icon (see image below)<br>
+<img src="https://i.imgur.com/fgSo4Yh.png" width="30%">
 <br>
-
+<img src="https://i.imgur.com/9slhmVj.png" width="30%"><br>
 ### iPhone<br>
 1) Open [http://bit.ly/aquacheckin](http://bit.ly/aquacheckin) from Safari web browser<br>
 2) Tap the <b>Share</b> button at the bottom of the page. It looks like a square with an arrow pointing out of the top.<br>
