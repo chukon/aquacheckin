@@ -21,12 +21,12 @@ The report created from the Aqua-CheckIn App will be used to account for all Aqu
 
 1) Go to [http://bit.ly/aquacheckin](http://bit.ly/aquacheckin) from the Chrome web browser<br>
 2) Bookmark or save as a Chrome app<br><br>
-Save as a Chrome app<br>
-1) Click the Chrome menu on the browser toolbar.<br>
-2) Select <b>More Tools</b>.<br>
-3) Select <b>Createshortcut</b> and checkbox <b>Open as Window</b>.<br>
-4) Click <b>Create</b>.<br>
-5) To view your Chrome apps click on the <b>Show Apps</b> icon <img src="https://i.imgur.com/fgSo4Yh.png" width="10%">
+<b>Save as a Chrome app</b><br>
+- Click the Chrome menu on the browser toolbar.<br>
+- Select <b>More Tools</b>.<br>
+- Select <b>Createshortcut</b> and checkbox <b>Open as Window</b>.<br>
+- Click <b>Create</b>.<br>
+- To view your Chrome apps click on the <b>Show Apps</b> icon <img src="https://i.imgur.com/fgSo4Yh.png" width="10%">
 <br>
 
 ### iPhone<br>
