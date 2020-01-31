@@ -25,7 +25,7 @@ The report created from the Aqua-CheckIn App will be used to account for all Aqu
 4) Select <b>Createshortcut</b> and checkbox <b>Open as Window</b>.<br>
 5) Click <b>Create</b>.<br><br>
 
-To view your Chrome apps click on the <b>Show Apps</b> icon (see image below) <img src="https://i.imgur.com/fgSo4Yh.png" width="10%">
+To view your Chrome apps click on the <b>Show Apps</b> icon <img src="https://i.imgur.com/fgSo4Yh.png" width="10%">
 <br>
 
 ### iPhone<br>
