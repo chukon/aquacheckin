@@ -1,6 +1,7 @@
 # aquacheckin
 <br>
-http://bit.ly/aquacheckin
+The Aqua-CheckIn app helps Aqua employees easily check-in each morning from computer, phone or tablet. <br>
+The report created from the Aqua-CheckIn app whille be used to account for all Aqua employees in an emergency evacuation.<br>
 <br>
 
 # Computer/Laptop<br>
