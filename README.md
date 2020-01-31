@@ -31,7 +31,7 @@ The report created from the Aqua-CheckIn App will be used to account for all Aqu
 
 ### iPhone<br>
 1) Open [http://bit.ly/aquacheckin](http://bit.ly/aquacheckin) from Safari web browser<br>
-See Picture Steps below on how to add iPhones home screen<br><br>
+<b>See Picture Steps below on how to add to iPhones home screen</b><br><br>
 2) Tap arrow icon on bottom of iphone (see circled icon)<br>
 <img src="111.jpg" width="20%"><br>
 3) Tap <b>Add to Home Screen</b> (see circled icon)<br>
