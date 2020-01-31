@@ -35,12 +35,12 @@ To view your Chrome apps click on the <b>Show Apps</b> icon <img src="https://i.
 4) Click <b>Add</b> when you’re done.<br>
 <br>
 See Picture Steps below on how to add iPhones home screen<br>
-1) Tap arrow icon on bottom of iphone (see circled icon)
-<img src="111.jpg" width="30%"><br>
-2) Tap <b>Add to Home Screen</b> (see circled icon)
-<img src="222.jpg" width="30%"><br>
-2) Tap <b>Add</b> (see circled icon)
-<img src="333.jpg" width="30%"><br>
+1) Tap arrow icon on bottom of iphone (see circled icon)<br>
+<img src="111.jpg" width="20%"><br>
+2) Tap <b>Add to Home Screen</b> (see circled icon)<br>
+<img src="222.jpg" width="20%"><br>
+2) Tap <b>Add</b> (see circled icon)<br>
+<img src="333.jpg" width="20%"><br>
 
 ### Android<br>
 1) Open [http://bit.ly/aquacheckin](http://bit.ly/aquacheckin) from the Chrome web browser<br>
